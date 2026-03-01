@@ -1,5 +1,7 @@
 # Mini Terraform Lab – Docker Load Balancer Architecture
 
+<img width="1536" height="1024" alt="terra" src="https://github.com/user-attachments/assets/a8b372a1-1608-46d1-9450-fb4dc448f398" />
+
 ## Overview
 
 Project ini adalah simulasi arsitektur mini production menggunakan Terraform dan Docker untuk membangun sistem multi-server dengan load balancing secara lokal.
@@ -35,6 +37,8 @@ Semua resource didefinisikan menggunakan file `.tf`.
 ---
 
 # 2. Mengapa Menggunakan Terraform?
+
+<img width="898" height="502" alt="1_YUeLcwugb-HJMh-pTGZBHg" src="https://github.com/user-attachments/assets/eb3e680d-e144-4cf3-b7cf-b1e06be8c30d" />
 
 Tanpa Terraform:
 
